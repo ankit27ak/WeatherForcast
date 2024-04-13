@@ -8,4 +8,4 @@ Develop a SpringBoot Java server that incorporates the Weather API from Rapid AP
 2) Import Project in Tools(Eclips, STS).
 3) Build the project
 4) Run the Project
-Run as-> Spring boot app
+
